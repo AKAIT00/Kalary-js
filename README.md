@@ -6,13 +6,13 @@
 <a href="https://discord.gg/YsFTYxU">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/darkboy">
+<a href="https://twitter.com/aka_rm5">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
- <a href="https://github.com/Darkboy-js">
+ <a href="https://github.com/AKAIT00">
   <img align="left" alt="Darkboy Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/darkboyh2/">
+<a href="https://instagram.com/aka_rm5/">
   <img align="left" alt="DarkBoy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
